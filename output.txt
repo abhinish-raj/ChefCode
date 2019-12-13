@@ -1,0 +1,45 @@
+12
+FATOil FIBERSpinach CARBRice FATCheese FIBERBeans FATEgg FIBERBroccoIi CARBPotato CARBCorn FATOlive FIBERCarrot CARBBeetroot
+Before for loop current : ['FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient FATOil
+1
+Before for loop current : ['FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient FIBERSpinach
+2
+Before for loop current : ['FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient CARBRice
+3
+Before for loop current : ['FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient FATCheese
+4
+Before for loop current : ['CARBRice', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient FIBERBeans
+2
+Before for loop current : ['CARBRice', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient FATEgg
+3
+Before for loop current : ['CARBRice', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient FIBERBroccoIi
+4
+Before for loop current : ['FATEgg', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient CARBPotato
+2
+Before for loop current : ['FATEgg', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ingredient CARBCorn
+3
+Before for loop current : ['CARBCorn', 'FATOlive', 'FIBERCarrot']
+ingredient FATOlive
+1
+Before for loop current : ['CARBCorn', 'FATOlive', 'FIBERCarrot']
+ingredient FIBERCarrot
+2
+Before for loop current : ['CARBCorn', 'FATOlive', 'FIBERCarrot']
+ingredient CARBBeetroot
+3
+This is FATIngrident 1
+THis is FIBERIngrident 1
+This is CARBIngrident 1
+ Ingredient List : ['FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato', 'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
+ Refrigerator List : ['CARBCorn', 'FATOlive', 'FIBERCarrot']
+ Chef Working Day : 001010100
+ Total Ingredient 3
