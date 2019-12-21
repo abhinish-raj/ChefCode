@@ -3,6 +3,8 @@
 # ingredients = list(map(str, input().rstrip().split()))
 n = 12
 ingredients = ['FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato',
+               'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot', 'FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese','FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato',
+               'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot','FATOil', 'FIBERSpinach', 'CARBRice', 'FATCheese', 'FIBERBeans', 'FATEgg', 'FIBERBroccoIi', 'CARBPotato',
                'CARBCorn', 'FATOlive', 'FIBERCarrot', 'CARBBeetroot']
 # here i stand for ingredients that contains the respective FAT, FIBER, CARBS
 # FATIngrident = FIBERIngrident = CARBIngrident = totalIngredients = 0
